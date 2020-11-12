@@ -11,7 +11,7 @@ This project contains the the ID3 Decision tree algorithm implementation by Daph
     * **testing_data**: contains examples of edge cases datasets
 * **jupyter**: contains the Jupyter Notebook _DecisionTree_Notebook.ipnyb_ to open on Jupyter Lab
 * **src**: contains all python files
-    * _DecisionTree.py_ the decision tree algorithm 
+    * _DecisionTree.py_ the decision tree algorithm, evaluation, prediction and pruning
     * _utils.py_ utiliy functions for loading the data, calculating entropy, and plotting the confusion matrix
     * _validation.py_ function for the 10-fold cross validation 
 * **tests**: contains anything corresponding to testing
