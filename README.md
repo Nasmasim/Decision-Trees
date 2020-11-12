@@ -2,7 +2,7 @@
 
 ## Description:
 
-This project contains the Introduction to Machine Learning Coursework 1 Decision Tree implementation by Daphne Demekas, Nasma Dasser, Constantin Eulenstein and Kevin Landert. The algorithm aims to predict the room in which a user is located based on seven WiFi signal strengths that are captured from the user's mobile phone. To train and test the algorithm, we use two separate "clean" and "noisy" datasets, both containing 2000 samples of seven continuous variables (signal strengths from seven emitters) and one categorical variable (the room in which the user is located). The report for the project is available under the _Intro_ML_Coursework_report.pdf_ file.
+This project contains the the ID3 Decision tree algorithm implementation by Daphne Demekas, Nasma Dasser, Constantin Eulenstein and Kevin Landert. The algorithm aims to predict the room in which a user is located based on seven WiFi signal strengths that are captured from the user's mobile phone. To train and test the algorithm, we use two separate "clean" and "noisy" datasets, both containing 2000 samples of seven continuous variables (signal strengths from seven emitters) and one categorical variable (the room in which the user is located).
 
 
 ## Folder structure:
@@ -34,7 +34,4 @@ IML_DecisionTree requires the following to run:
     2. Changing the path to the new dataset in ```main.py```
 ## Credit
 Daphne Demekas, Nasma Dasser, Constantin Eulenstein and Kevin Landert
-
-## URL for the project on GitLab
-https://gitlab.doc.ic.ac.uk/kgl20/iml_decisiontree
 
