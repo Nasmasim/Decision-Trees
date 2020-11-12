@@ -2,7 +2,7 @@
 
 ## Description:
 
-This project contains the the ID3 Decision tree algorithm implementation by Daphne Demekas, Nasma Dasser, Constantin Eulenstein and Kevin Landert. The algorithm aims to predict the room in which a user is located based on seven WiFi signal strengths that are captured from the user's mobile phone. To train and test the algorithm, we use two separate "clean" and "noisy" datasets, both containing 2000 samples of seven continuous variables (signal strengths from seven emitters) and one categorical variable (the room in which the user is located).
+This project contains the ID3 Decision tree algorithm implementation by Daphne Demekas, Nasma Dasser, Constantin Eulenstein and Kevin Landert. The algorithm aims to predict the room in which a user is located based on seven WiFi signal strengths that are captured from the user's mobile phone. To train and test the algorithm, we use two separate "clean" and "noisy" datasets, both containing 2000 samples of seven continuous variables (signal strengths from seven emitters) and one categorical variable (the room in which the user is located).
 
 
 ## Folder structure:
